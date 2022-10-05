@@ -60,6 +60,10 @@ https://numfocus.org/code-of-conduct
 
 19. Your Name (First & Last):
 
+Matthew Feickert
+
 20. Your Email:
+
+matthew dot feickert @ no-spam-for-the-love-of-reason dot cern dot ch
 
 21. Questions or Comments:
