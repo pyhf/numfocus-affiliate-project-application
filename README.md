@@ -40,7 +40,7 @@ affiliation
 
 11. How does your project relate to or integrate with the existing ecosystem of NumFOCUS tools?
 
-**TODO**
+pyhf uses NumPy and SciPy as core dependencies and uses Matplotlib as an optional dependency for visualization. It builds upon these libraries to provide statistical modeling for a common family of binned probability models in particle physics.
 
 12. Describe how your project furthers the NumFOCUS mission:
 https://numfocus.org/community/mission
