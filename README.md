@@ -40,27 +40,26 @@ The maintainers of pyhf care about creating sustainable open source software for
 
 affiliation
 
-11. How does your project relate to or integrate with the existing ecosystem of NumFOCUS tools?This question is required.
+11. How does your project relate to or integrate with the existing ecosystem of NumFOCUS tools?
 
-12. Describe how your project furthers the NumFOCUS mission:This question is required. *
+12. Describe how your project furthers the NumFOCUS mission:
 https://numfocus.org/community/mission
 
-13. How many active contributors does your project currently have?This question is required. *
+13. How many active contributors does your project currently have?
 
 14. Any comments you’d like to make on the number of your active contributors:
 
-15. What is your project doing to attract and/or mentor new contributors and maintainers?This question is required. *
+15. What is your project doing to attract and/or mentor new contributors and maintainers?
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
-This question is required.*
 
-17. What license(s) does your project currently use?This question is required. *
+17. What license(s) does your project currently use?
 
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
 
-19. Your Name (First & Last):This question is required. *
+19. Your Name (First & Last):
 
-20. Your Email:This question is required. *
+20. Your Email:
 
 21. Questions or Comments:
