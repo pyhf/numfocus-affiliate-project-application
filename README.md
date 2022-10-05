@@ -42,21 +42,37 @@ affiliation
 
 11. How does your project relate to or integrate with the existing ecosystem of NumFOCUS tools?
 
+**TODO**
+
 12. Describe how your project furthers the NumFOCUS mission:
 https://numfocus.org/community/mission
 
+**TODO**
+
 13. How many active contributors does your project currently have?
+
+**TODO**
 
 14. Any comments you’d like to make on the number of your active contributors:
 
+**TODO**
+
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
+
+**TODO**
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
+**TODO**
+
 17. What license(s) does your project currently use?
+
+**TODO**
 
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
+
+**TODO**
 
 19. Your Name (First & Last):
 
