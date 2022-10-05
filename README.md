@@ -1,6 +1,4 @@
-# numfocus-affiliate-project-application
-
-pyhf's application to NumFOCUS for Affiliated Project status
+# pyhf's application to NumFOCUS for Affiliated Project status
 
 1. Does your project have a contributor Code of Conduct?
 
