@@ -69,6 +69,10 @@ However, there are are additional users who engage with the the project through 
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
+The project GitHub Discussions.
+There is also an announcements mailing list, but we ask that people give feedback and comments through GitHub Discussions.
+**Number of participants???**
+
 **TODO**
 
 17. What license(s) does your project currently use?
