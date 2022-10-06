@@ -49,11 +49,12 @@ pyhf is part of the Scikit-HEP project which is a community-driven and community
 
 13. How many active contributors does your project currently have?
 
-**TODO**
+4
 
 14. Any comments you’d like to make on the number of your active contributors:
 
-**TODO**
+There are 3 core developers and then 1 one contributor who will periodically contribute code.
+However, there are are additional users who engage with the the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project.
 
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
 
