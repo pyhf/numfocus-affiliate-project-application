@@ -77,7 +77,7 @@ There is also an announcements mailing list, but we ask that people give feedbac
 
 17. What license(s) does your project currently use?
 
-**TODO**
+Apache 2 License
 
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
