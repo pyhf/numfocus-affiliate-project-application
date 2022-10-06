@@ -42,10 +42,10 @@ affiliation
 
 pyhf uses NumPy and SciPy as core dependencies and uses Matplotlib as an optional dependency for visualization. It builds upon these libraries to provide statistical modeling for a common family of binned probability models in particle physics.
 
-12. Describe how your project furthers the NumFOCUS mission: https://numfocus.org/community/mission
+12. Describe how your project furthers the NumFOCUS mission:
+https://numfocus.org/community/mission
 
-pyhf is part of the Scikit-HEP project which is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. As part of this effort, pyhf empowers particle physics analysts across experiment and theory with expressive models and performant statistical inference while promoting an open ecosystem of tools.
-Additionally, the pyhf's JSON model serialization format has been adopted to openly publish the first full probability models from experiments at the CERN Large Hardon Collider, allowing for theorists and experimentalists to have a fully open shared representation of the model used for final analysis. This has promoted closer collaboration between theorists and experimentalists.
+pyhf is part of the Scikit-HEP project which is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python. As part of this effort, pyhf empowers particle physics analysts across experiment and theory with expressive models and performant statistical inference while promoting an open ecosystem of tools. Additionally, the pyhf's JSON model serialization format has been adopted to openly publish the first full probability models from experiments at the CERN Large Hardon Collider, allowing for theorists and experimentalists to have a fully open shared representation of the model used for final analysis. This has promoted closer collaboration between theorists and experimentalists.
 
 13. How many active contributors does your project currently have?
 
