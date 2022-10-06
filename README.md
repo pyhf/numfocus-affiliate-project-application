@@ -82,7 +82,7 @@ Apache 2 License
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
 
-**TODO**
+We will adopt the NumFOCUS Code of Conduct and extend it to include our existing Code of Counduct "Responsibilities" and "Scope" sections which come from the the Contributor Covenant v1.4 (http://contributor-covenant.org/version/1/4).
 
 19. Your Name (First & Last):
 
