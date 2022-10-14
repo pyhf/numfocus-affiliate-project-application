@@ -51,7 +51,7 @@ https://numfocus.org/community/mission
 
 pyhf is part of the Scikit-HEP project which is a community-driven and community-oriented project with the aim of providing Particle Physics at large with an ecosystem for data analysis in Python.
 As part of this effort, pyhf empowers particle physics analysts across experiment and theory with expressive models and performant statistical inference while promoting an open ecosystem of tools.
-Additionally, the pyhf's JSON model serialization format has been adopted to openly publish the first full probability models from experiments at the CERN Large Hardon Collider, allowing for theorists and experimentalists to have a fully open shared representation of the model used for final analysis.
+Additionally, pyhf's JSON model serialization format has been adopted to openly publish the first full probability models from experiments at the CERN Large Hardon Collider, allowing for theorists and experimentalists to have a fully open shared representation of the model used for final analysis.
 This has promoted closer collaboration between theorists and experimentalists.
 
 13. How many active contributors does your project currently have?
@@ -65,7 +65,10 @@ However, there are are additional users who engage with the the project through 
 
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
 
-**TODO**
+Maintaining pyhf requires experience with statistical methods used in experimental particle physics.
+The pyhf dev team is currently working with large experimental collaborations that are interested in adopting pyhf to raise awareness of development needs and to communicate the importance of having maintainers from across different subdomains of particle physics.
+One member of the pyhf dev team is supported by NSF cooperative agreement OAC-1836650 to work on the project.
+The team expects that there will be a new NSF cooperative agreement in 2023 that could support a portion of time for an additional maintainer.
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
