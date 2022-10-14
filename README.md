@@ -73,8 +73,10 @@ The team expects that there will be a new NSF cooperative agreement in 2023 that
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
 The project GitHub Discussions.
-There is also an announcements mailing list, but we ask that people give feedback and comments through GitHub Discussions.
-**Number of participants???**
+There is also an announcements mailing list through Google Groups (https://groups.google.com/group/pyhf-announcements/subscribe), but we ask that people give feedback and comments through GitHub Discussions.
+
+The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
+The number of participants is usually between 3 and 7.
 
 **TODO**
 
