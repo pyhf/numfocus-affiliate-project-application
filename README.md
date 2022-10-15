@@ -47,6 +47,7 @@ affiliation
 
 pyhf uses NumPy and SciPy as core dependencies and uses Matplotlib as an optional dependency for visualization.
 It builds upon these libraries to provide statistical modeling for a common family of binned probability models in particle physics.
+Similarly to how Astropy and SunPy provide toolkits for modeling and analysis (among other tasks) in astrophysics and heliophysics respectively, pyhf provides a component of the Scikit-HEP statistical analysis story for particle physics.
 
 12. Describe how your project furthers the NumFOCUS mission:
 https://numfocus.org/community/mission
