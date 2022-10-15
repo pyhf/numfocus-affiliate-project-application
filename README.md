@@ -61,7 +61,7 @@ This has promoted closer collaboration between theorists and experimentalists.
 14. Any comments you’d like to make on the number of your active contributors:
 
 There are three core developers and one contributor (the core developer of a library that builds on top of pyhf) who will periodically contribute code.
-However, there are are additional users who engage with the the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project on a regular basis.
+However, there are are additional users who engage with the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project on a regular basis.
 
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
 
@@ -77,7 +77,7 @@ There is also an announcements mailing list through Google Groups (https://group
 
 The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
 There are usually between three and six participants in these discussions.
-There are sometimes private (based on data that can not yet be made public) discussions that experimental collaborations in particle physics will have with the core developers, but the dev team works to make revised or redacted versions of the information in these discussions appear in the the public GitHub Discussions or in Issues.
+There are sometimes private (based on data that can not yet be made public) discussions that experimental collaborations in particle physics will have with the core developers, but the dev team works to make revised or redacted versions of the information in these discussions appear in the public GitHub Discussions or in Issues.
 
 17. What license(s) does your project currently use?
 
@@ -86,7 +86,7 @@ Apache License, Version 2.0
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
 
-We will adopt the NumFOCUS Code of Conduct and extend it to include our existing Code of Conduct "Responsibilities" and "Scope" sections which come from the the Contributor Covenant v1.4 (http://contributor-covenant.org/version/1/4).
+We will adopt the NumFOCUS Code of Conduct and extend it to include our existing Code of Conduct "Responsibilities" and "Scope" sections which come from the Contributor Covenant v1.4 (http://contributor-covenant.org/version/1/4).
 
 19. Your Name (First & Last):
 
