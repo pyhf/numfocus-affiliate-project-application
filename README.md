@@ -99,3 +99,5 @@ Matthew Feickert
 matthew dot feickert @ no-spam-please dot cern dot ch
 
 21. Questions or Comments:
+
+We have been planning to redesign the logo for a long time (https://github.com/scikit-hep/pyhf/issues/453).
