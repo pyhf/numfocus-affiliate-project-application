@@ -71,7 +71,7 @@ However, there are are additional users who engage with the project through GitH
 Maintaining pyhf requires experience with statistical methods used in experimental particle physics.
 The pyhf dev team is currently working with large experimental collaborations that are interested in adopting pyhf to raise awareness of development needs and to communicate the importance of having maintainers from across different subdomains of particle physics.
 One member of the pyhf dev team is supported by NSF cooperative agreement OAC-1836650 to work on the project.
-The team expects that there will be a new NSF cooperative agreement in 2023 that could support a portion of time for an additional maintainer.
+The team expects that there will be a new NSF cooperative agreement in 2024 that could support a portion of time for an additional maintainer.
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
