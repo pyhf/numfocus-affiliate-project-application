@@ -81,7 +81,7 @@ There are sometimes private (based on data that can not yet be made public) disc
 
 17. What license(s) does your project currently use?
 
-Apache 2 License
+Apache License, Version 2.0
 
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
