@@ -76,7 +76,7 @@ The project GitHub Discussions (https://github.com/scikit-hep/pyhf/discussions).
 There is also an announcements mailing list through Google Groups (https://groups.google.com/group/pyhf-announcements/subscribe), but we ask that people give feedback and comments through GitHub Discussions.
 
 The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
-The number of participants is usually between 3 and 7.
+The number of participants is usually between 3 and 6.
 
 **TODO**
 
