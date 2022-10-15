@@ -78,7 +78,7 @@ The team expects that there will be a new NSF cooperative agreement in 2024 that
 The project GitHub Discussions (https://github.com/scikit-hep/pyhf/discussions).
 There is also an announcements mailing list through Google Groups (https://groups.google.com/group/pyhf-announcements/subscribe), but we ask that people give feedback and comments through GitHub Discussions.
 
-The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
+The participants in discussions on development and governance are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
 There are usually between three and six participants in these discussions.
 There are sometimes private (based on data that can not yet be made public) discussions that experimental collaborations in particle physics will have with the core developers, but the dev team works to make revised or redacted versions of the information in these discussions appear in the public GitHub Discussions or in Issues.
 
