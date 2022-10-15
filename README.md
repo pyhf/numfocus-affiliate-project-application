@@ -61,7 +61,7 @@ This has promoted closer collaboration between theorists and experimentalists.
 14. Any comments you’d like to make on the number of your active contributors:
 
 There are 3 core developers and then 1 one contributor who will periodically contribute code.
-However, there are are additional users who engage with the the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project.
+However, there are are additional users who engage with the the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project on a regular basis.
 
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
 
@@ -72,7 +72,7 @@ The team expects that there will be a new NSF cooperative agreement in 2023 that
 
 16. Where do you host conversations about project development and governance (e.g. mailing lists, forums, etc.), and how many participants do you have?
 
-The project GitHub Discussions.
+The project GitHub Discussions (https://github.com/scikit-hep/pyhf/discussions).
 There is also an announcements mailing list through Google Groups (https://groups.google.com/group/pyhf-announcements/subscribe), but we ask that people give feedback and comments through GitHub Discussions.
 
 The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
