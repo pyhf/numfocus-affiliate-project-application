@@ -27,6 +27,8 @@ Yes
 
 7. Please upload a .svg file of your project's logo. A "square" format is best.
 
+![logo](pyhf-logo.svg)
+
 8. Your project's Twitter handle or other social media handles/urls:
 
 `@pyhf_`
