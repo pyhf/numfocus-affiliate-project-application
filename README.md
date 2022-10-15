@@ -60,7 +60,7 @@ This has promoted closer collaboration between theorists and experimentalists.
 
 14. Any comments you’d like to make on the number of your active contributors:
 
-There are 3 core developers and then 1 one contributor who will periodically contribute code.
+There are three core developers and one contributor (the core developer of a library that builds on top of pyhf) who will periodically contribute code.
 However, there are are additional users who engage with the the project through GitHub Issues and Discussions that do not necessarily contribute code back to the project on a regular basis.
 
 15. What is your project doing to attract and/or mentor new contributors and maintainers?
