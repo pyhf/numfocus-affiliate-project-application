@@ -18,7 +18,7 @@ https://pyhf.readthedocs.io/
 
 5. Please provide a summary description of your project in a few sentences.
 
-pyhf is a pure-Python library for the building and serialization of statistical models used commonly in high energy physics.
+pyhf is a pure-Python library for the building and serialization of statistical models used commonly in high energy particle physics.
 It also supports statistical inference powered by n-dimensional array library computational backends, including machine learning libraries that allow for exploitation of automatic differentiation and hardware acceleration for speeding up model fitting.
 
 6. Does your project have a logo?
