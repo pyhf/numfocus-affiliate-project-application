@@ -77,7 +77,7 @@ There is also an announcements mailing list through Google Groups (https://group
 
 The participants are usually other maintainers of Scikit-HEP packages and power users that have a vested interest in the project development.
 There are usually between three and six participants in these discussions.
-There are sometimes private (based on data that can not yet be made public) discussions that the LHC experiments will have with the core developers, but the dev team works to make revised or redacted versions of the information in these discussions appear in the the public GitHub Discussions or in Issues.
+There are sometimes private (based on data that can not yet be made public) discussions that experimental collaborations in particle physics will have with the core developers, but the dev team works to make revised or redacted versions of the information in these discussions appear in the the public GitHub Discussions or in Issues.
 
 17. What license(s) does your project currently use?
 
@@ -86,7 +86,7 @@ Apache 2 License
 18. Projects must adopt the NumFOCUS Code of Conduct or one similar in spirit. Please tell us how you plan to meet this requirement:
 https://numfocus.org/code-of-conduct
 
-We will adopt the NumFOCUS Code of Conduct and extend it to include our existing Code of Counduct "Responsibilities" and "Scope" sections which come from the the Contributor Covenant v1.4 (http://contributor-covenant.org/version/1/4).
+We will adopt the NumFOCUS Code of Conduct and extend it to include our existing Code of Conduct "Responsibilities" and "Scope" sections which come from the the Contributor Covenant v1.4 (http://contributor-covenant.org/version/1/4).
 
 19. Your Name (First & Last):
 
